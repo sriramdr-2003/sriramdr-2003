@@ -73,15 +73,6 @@
 
 ---
 
-## 💻 Workspace Specs
-<p>
-  <img src="https://img.shields.io/badge/MacBook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-</p>
-
----
-
 ## 📈 GitHub & Coding Stats
 
 <p align="center">
