@@ -16,7 +16,7 @@
   </a>
   &nbsp; | Client Project:
   <a href="https://www.lumen.com/en-us/home.html" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW_Yrp-490i59kuNXipJAc_E9qRZCJuBZbQ&s" height="26" alt="Lumen"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW_Yrp-490i59kuNXipJAc_E9qRZCJuBZbQ&s" height="30" alt="Lumen"/>
   </a>
 
 
