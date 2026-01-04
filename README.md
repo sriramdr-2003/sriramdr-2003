@@ -14,10 +14,11 @@
   <a href="https://geakminds.com/" target="_blank">
     <img src="https://geakminds.com/wp-content/uploads/2020/09/logo-1-01.png" height="26" alt="GeakMinds"/>
   </a>
-  &nbsp;— Client Project: 
+  &nbsp; | Client Project:
   <a href="https://www.lumen.com/en-us/home.html" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW_Yrp-490i59kuNXipJAc_E9qRZCJuBZbQ&s" height="26" alt="Lumen"/>
   </a>
+
 
 ---
 
