@@ -67,8 +67,8 @@
 
 ### 🚀 Model Deployment
 <p>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo"/>
   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo"/>
 </p>
 
 ---
