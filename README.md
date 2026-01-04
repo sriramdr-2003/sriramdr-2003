@@ -33,6 +33,8 @@
   <img src="https://img.icons8.com/color/48/python.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/matplotlib.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 </p>
 
 ### 📊 Visualization & Analytics
