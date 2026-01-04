@@ -17,7 +17,7 @@
   </a> 
   & 
   <a href="https://www.lumen.com/en-us/home.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Lumen_Technologies_Logo.png" height="24" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW_Yrp-490i59kuNXipJAc_E9qRZCJuBZbQ&s" height="24" />
     <b>Lumen</b>
   </a>
 
