@@ -2,7 +2,7 @@
 
 Data Scientist @ GeakMinds
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://drsriramkkdi.wixsite.com/sriramdr-dataworks)                                                 
+- 🔭 Here's my [portfolio](https://drsriramkkdi.wixsite.com/sriramdr-dataworks))                                                 
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
 - Currently working with [<img src="https://geakminds.com/wp-content/uploads/2020/09/logo-1-01.png" height="24">](https://geakminds.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
