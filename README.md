@@ -10,8 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 Check out my **[Portfolio](https://drsriramkkdi.wixsite.com/sriramdr-dataworks)**
 - 🌱 Currently learning **DSA & AI Workflow Integration**
-- 🧠 Engineering at **[Highbrow Technology](https://www.highbrowtechnology.com/)**
-- 💼 Working with **[GeakMinds](https://geakminds.com/)** & **[Zoho Catalyst](https://catalyst.zoho.com/)**
+- 💼 Working with **[GeakMinds](https://geakminds.com/)** & **[Lumen](https://www.lumen.com/en-us/home.html)**
 
 ---
 
@@ -60,7 +59,8 @@
 <p>
   <img src="https://img.icons8.com/fluency/48/azure-1.png"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/azure-data-pipeline.png"/>
+  <img width="40" height="40" src="https://img.icons8.com/office/40/azure-data-pipeline.png" alt="azure-data-pipeline"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/data-migration.png" alt="data-migration"/>
 </p>
 
 ### 🚀 Model Deployment
