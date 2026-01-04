@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 Check out my **[Portfolio](https://drsriramkkdi.wixsite.com/sriramdr-dataworks)**
 - 🌱 Currently learning **DSA & AI Workflow Integration**
-- 💼 Working with **[GeakMinds][<img src="https://geakminds.com/wp-content/uploads/2020/09/logo-1-01.png" height="24">](https://geakminds.com/)** & **[Lumen][https://upload.wikimedia.org/wikipedia/en/b/b6/Lumen_Technologies_Logo.png](https://www.lumen.com/en-us/home.html)**
+- 💼 Working with **[GeakMinds][<img src="https://geakminds.com/wp-content/uploads/2020/09/logo-1-01.png" height="24">](https://geakminds.com/)** & **[Lumen][<img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Lumen_Technologies_Logo.png"height="24">](https://www.lumen.com/en-us/home.html)**
 
 ---
 
